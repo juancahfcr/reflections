@@ -20,7 +20,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Temporary folders and "official" folders, whatever is in the official folders cannot be touched, do a backup of the file, take a copy of file and place it into the temp folder, do your changes
+    and comment who is doing the change then, once completed, promote to official folder in case of rollback use the backup file.
+
+    Easier: no management tool
+    Harder: no management tool
+
+    Meaning: Git and GitHub are a necessary management tool.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
